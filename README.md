@@ -101,7 +101,6 @@ hospital-appointment-management-system/
 ├── utils.py
 ├── README.md
 ├── .gitignore
-└── Screenshots/
 ```
 
 ---
@@ -165,19 +164,6 @@ appointments.json
 ```
 
 These files automatically save patient and appointment information, allowing data to persist between program executions.
-
----
-
-## Screenshots
-
-The `Screenshots` folder contains sample outputs of the application, including:
-
-- Main Menu
-- Add Patient
-- Patient List
-- Doctor List
-- Appointment Booking
-- Reports
 
 ---
 
